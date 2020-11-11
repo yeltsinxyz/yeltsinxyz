@@ -29,7 +29,9 @@
 
 Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm working on a theme for my "company" (isn't really a company, because I'm the only one who works there, for now...) called [Crema](https://github.com/yeltsinxyz/crema). I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeltsinxyz&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeltsinxyz&show_icons=true"> 
+<br><br>
+<img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
 
 ### Some Personal Information
 
@@ -41,8 +43,6 @@ Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end deve
 - 📫 If you really want to send me an e-mail: `hey@yeltsin.xyz`, or `yeltsin.s.lima@gmail.com` as a fallback.
 - 🎧 Some of my playlist on Spotify: [Mood](https://open.spotify.com/playlist/5PT6aeCkGd5aEctdvVcPzt?si=YTUdso2nRFeOJvMMtlgNYw), [Sad Moood](https://open.spotify.com/playlist/2zWQl5EMcX7x3MWZLSJh3C?si=a3p5qzjpSxqaxaURQeSN1Q), [Love Mood](https://open.spotify.com/playlist/3wDhiq7jM82WG0ZS8zfI0o?si=BLe_YnX4TseAXyDGVZWcBA) and there is also an [Asia](https://open.spotify.com/playlist/1UvKFU7FVn2RvdH35ATAPx?si=c9pNz4sFR3Wop5wjG-Z7NA) playlist.
 - 🙏 I am a bad buddhist (I really fail to follow the buddhism as it should)
-
-<img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
 
 ### Fun? Facts
 
