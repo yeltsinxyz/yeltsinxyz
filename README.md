@@ -29,6 +29,8 @@
 
 Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm working on a theme for my "company" (isn't really a company, because I'm the only one who works there, for now...) called [Crema](https://github.com/yeltsinxyz/crema). I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
 
+<img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
+
 ### Some Personal Information
 
 - 😜 Would like to try new stuff and anything interesting.
@@ -41,7 +43,6 @@ Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end deve
 - 🙏 I am a bad buddhist (I really fail to follow the buddhism as it should)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yeltsinxyz&show_icons=true"> 
-<img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
 
 ### Fun? Facts
 
