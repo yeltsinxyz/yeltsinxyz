@@ -1,6 +1,6 @@
 <img align="center" alt="A big Pride flag" src="img/pride.png">
 
-<br><br>
+<br>
 
 ### Hey :vulcan_salute:
 
