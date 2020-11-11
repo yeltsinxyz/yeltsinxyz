@@ -42,8 +42,6 @@ Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end deve
 - 🎧 Some of my playlist on Spotify: [Mood](https://open.spotify.com/playlist/5PT6aeCkGd5aEctdvVcPzt?si=YTUdso2nRFeOJvMMtlgNYw), [Sad Moood](https://open.spotify.com/playlist/2zWQl5EMcX7x3MWZLSJh3C?si=a3p5qzjpSxqaxaURQeSN1Q), [Love Mood](https://open.spotify.com/playlist/3wDhiq7jM82WG0ZS8zfI0o?si=BLe_YnX4TseAXyDGVZWcBA) and there is also an [Asia](https://open.spotify.com/playlist/1UvKFU7FVn2RvdH35ATAPx?si=c9pNz4sFR3Wop5wjG-Z7NA) playlist.
 - 🙏 I am a bad buddhist (I really fail to follow the buddhism as it should)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeltsinxyz&show_icons=true"> 
-
 ### Fun? Facts
 
 - ❤️ Sometimes I write to prisoners, mostly LGBTQ+ prisioners. If it's hard for us, imagine for them. I know they commited errors, but everyone does. You can [write too](https://writeaprisoner.com).
@@ -55,6 +53,8 @@ Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end deve
 - 🤎 **TV Shows**: Doctor Who, Star Trek, Sherlock (Elementary too), Chinese/Korean Dramas. **Music**: Almost anything, really.
 - 🤍 **Games**: Overwatch, 7 days to die (but I am really afraid of zombies so?!?!), No Man's Sky, Warframe. Check out my [Steam](https://steamcommunity.com/id/yeltsinxyz).
 - 💘 I love making friends, feel free to follow me or chat with me.
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeltsinxyz&show_icons=true"> 
 
 ### Credits
 
