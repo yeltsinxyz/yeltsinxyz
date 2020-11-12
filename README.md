@@ -15,7 +15,7 @@
 <a href="https://t.me/yeltsinxyz">
     <img align="left" alt="Yeltsin Lima | Telegram" width="22px" src="img/telegram.svg">
 </a>
-<a href="https://link.yeltsin.xyz/medium">
+<a href="https://link.yeltsin.xyz/medium-yeltsin">
     <img align="left" alt="Yeltsin Lima | Medium" width="22px" src="img/medium.svg">
 </a>
 <a href="https://link.yeltsin.xyz/linkedin">
@@ -35,9 +35,9 @@ Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end deve
 
 - 😜 Would like to try new stuff and anything interesting.
 - 🌏 I am learning Chinese (Mandarin). I also know Portuguese (native), English (Advanced) and Spanish (basic to intermediate).
-- 📚 I sometimes blog on Medium. You can [check out](https://link.yeltsin.xyz/medium)! But it's in portuguese.
+- 📚 I sometimes blog on Medium. You can [check out](https://link.yeltsin.xyz/medium-yeltsin)! But it's in portuguese.
 - 🌈 I consider myself pansexual, support LGBTQ+, BlackLivesMatter, any moviment against opression and groups who support people who struggles with Anxiety and Depression.
-- 💬 You can talk to me via [yeltsinxyz/issues](https://github.com/yeltsinxyz/yeltsinxyz/issues) or via [Telegram](https://t.me/yeltsinxyz)?
+- 💬 You can talk to me via [yeltsinxyz/issues](https://github.com/yeltsinxyz/yeltsinxyz/issues) or via [Telegram](https://t.me/yeltsinxyz).
 - 📫 If you really want to send me an e-mail: `hey@yeltsin.xyz`, or `yeltsin.s.lima@gmail.com` as a fallback.
 - 🎧 Some of my playlist on Spotify: [Mood](https://open.spotify.com/playlist/5PT6aeCkGd5aEctdvVcPzt?si=YTUdso2nRFeOJvMMtlgNYw), [Sad Moood](https://open.spotify.com/playlist/2zWQl5EMcX7x3MWZLSJh3C?si=a3p5qzjpSxqaxaURQeSN1Q), [Love Mood](https://open.spotify.com/playlist/3wDhiq7jM82WG0ZS8zfI0o?si=BLe_YnX4TseAXyDGVZWcBA) and there is also an [Asia](https://open.spotify.com/playlist/1UvKFU7FVn2RvdH35ATAPx?si=c9pNz4sFR3Wop5wjG-Z7NA) playlist.
 - 🙏 I am a bad buddhist (I really fail to follow the buddhism as it should)
