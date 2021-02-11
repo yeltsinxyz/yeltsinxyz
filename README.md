@@ -6,19 +6,16 @@
 
 <br>
 
-<a href="https://link.yeltsin.xyz/twitter">
+<a href="https://twitter.com/psych0demon">
     <img align="left" alt="Yeltsin Lima | Twitter" width="22px" src="img/twitter.svg">
 </a>
-<a href="https://link.yeltsin.xyz/instagram">
+<a href="https://instagram.com/yeltsinxyz">
     <img align="left" alt="Yeltsin Lima | Instagram" width="22px" src="img/instagram.svg">
 </a>
 <a href="https://t.me/yeltsinxyz">
     <img align="left" alt="Yeltsin Lima | Telegram" width="22px" src="img/telegram.svg">
 </a>
-<a href="https://link.yeltsin.xyz/medium-yeltsin">
-    <img align="left" alt="Yeltsin Lima | Medium" width="22px" src="img/medium.svg">
-</a>
-<a href="https://link.yeltsin.xyz/linkedin">
+<a href="https://www.linkedin.com/in/yeltsinxyz/">
     <img align="left" alt="Yeltsin Lima | LinkedIn" width="22px" src="img/linkedin.svg">
 </a>
 <a href="https://payrequest.me/yeltsinxyz">
@@ -27,7 +24,7 @@
 
 <br><br>
 
-Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm working on a theme for my "company" (isn't really a company, because I'm the only one who works there, for now...) called [Crema](https://github.com/yeltsinxyz/crema). I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
+Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm working at [Coopers Digital Production](https://coopers.pro) as a Front-End Developer / WordPress Developer. I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
 
 <img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
 
