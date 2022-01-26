@@ -24,7 +24,7 @@
 
 <br><br>
 
-Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm working at [Coopers Digital Production](https://coopers.pro) as a Front-End Developer / WordPress Developer. I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
+Hello everyone, nice to meet you. My name is Yeltsin Lima. I am a front-end developer who is currently learning back-end and also software development. I also trying to create some nice open-source things. Currently I'm unemployed and looking for jobs. I'm also working on an application to help people with anxiety track they crisis based in the CBT therapy method. Since it's an app, I'm also learning Flutter :heart:.
 
 <img align="right" src="https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif">
 
